@@ -143,11 +143,11 @@ While marking, the interned string identifiers that your code returns will be tr
 
 Here is the [mark sheet](MarkSheet.txt) used for grading. In particular, your submission will be evaluated as follows:
 
-* 10% for code cleanliness, readability, comments, and correct stack frame usage.
+* 10% for code cleanliness, readability, comments, and correct stack frame usage
 * 16% for correct hashtable implementation
 * 24% for correct unbounded data structure and collision handling
 * 30% for correct implementation of `internFile`
-* 20% for correctly handling edge cases (i.e., maximum number of unique strings).
+* 20% for correctly handling edge cases (i.e., maximum number of unique strings)
 
 ## Submission
 
