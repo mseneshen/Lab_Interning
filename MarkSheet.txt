@@ -1,0 +1,59 @@
+
+		CMPUT 229 Laboratory Assignment #5
+		==================================
+
+Final Mark:           /100 MARKS TOTAL
+                =====
+Part 1:         _____ /16 Collision-Free, Match-Free
+
+Part 2:         _____ /24 Collisions & Matching Strings
+
+Part 3:		_____ /30 File Interning
+
+Part 4:		_____ /20 Edge Cases - Large Data Sets
+
+Part 5:		_____ /10 Style
+
+-------------------------------------------------------------------------
+Part 1: Collision-Free, Match-Free
+
+ _____ /16
+
+	test01 _____ /8	test02 _____ /8
+
+------------------------------------------------------------------------
+Part 2: Collisions & Matching Strings
+
+ _____ /24
+
+	test03 _____ /8  test04 ____ /8    test05 ____ /8
+
+	test08 _____
+
+-To receive any marks for this section, test08 must pass.
+
+------------------------------------------------------------------------
+Part 3: File Interning
+
+ _____ /30
+
+	test09 _____ /10	test10 _____ /10	test11 _____ /10
+
+------------------------------------------------------------------------
+Part 4: Edge Cases - Large Data Sets
+
+ _____ /20
+
+	test06 _____ /10	test07 _____ /10
+
+------------------------------------------------------------------------
+Part 5: Style
+
+ _____ /10
+ 
+Some common deductions will include: (5 marks per deduction)
+	No subroutine description
+	No program header
+	No explanation for register usage
+	No block comments
+
